@@ -19,4 +19,4 @@
 4. 解绑
    
    解绑UFile存储桶会把Cloud Shell和存储桶解除绑定关系, Cloud Shell下次启动时不再自动挂载此存储桶。 
-   ![unmount](images/unmount.png) 
+   ![unmount](images/unmount.png)
