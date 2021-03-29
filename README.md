@@ -4,5 +4,5 @@
 
 # 概览
 
-* [产品概述.](cloudshell/overview.md)
+* [产品概述](cloudshell/overview.md)
 * [产品功能](cloudshell/functions.md)
